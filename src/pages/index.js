@@ -60,12 +60,11 @@ const IndexPage = () => (
 
     <section id="banner">
       <header>
-        <h2>This is Overflow</h2>
+        <h2>About Me</h2>
       </header>
       <p>
-        A brand new site template designed by{' '}
-        <a href="http://twitter.com/ajlkn">AJ</a> for{' '}
-        <a href="http://html5up.net">HTML5 UP</a>.<br />
+        I try to learn new things.
+I built this site using {' '}<a href= "https://reactjs.org/">React</a><br/> 
         It’s responsive, built on HTML5/CSS3, and entirely free
         <br />
         under the{' '}
@@ -74,7 +73,7 @@ const IndexPage = () => (
       <footer>
         <Scroll type="id" element="first">
           <a href="#first" className="button style2 scrolly">
-            Act on this message
+            Read more
           </a>
         </Scroll>
       </footer>
@@ -148,7 +147,7 @@ const IndexPage = () => (
 
     <article className="container box style3">
       <header>
-        <h2>Nisl sed ultricies</h2>
+        <h2>Let's Connect !!</h2>
         <p>Diam dignissim lectus eu ornare volutpat orci.</p>
       </header>
       <form method="post" action="#">
